@@ -1,0 +1,154 @@
+//
+//	TabBarView Controller - Main View
+//
+/* Tab bar item - History */
+"History" = "Call History";
+
+/* Tab bar item - Contact */
+"Contacts" = "Contacts";
+
+/* Tab bar item - Dial */
+"Keypad" = "Keypad";
+
+/* More tab bar item title */
+"More" = "More";
+
+//
+// call handler
+//
+/**/
+"Connecting" = "Connecting";
+"Disconnected" = "Disconnected";
+"ERROR" = "ERROR";
+
+"In order for this program to work correctly you must be connected to the internet. To call using phone network press call" = "In order for this program to work correctly you must be connected to the internet. To call using phone network press call";
+"An error occurred while registering. Please, Go to setting page and verify the credential. To call using phone network press call" = "An error occurred while registering. Please, Go to setting page and verify the credential. To call using phone network press call";
+
+"Call" = "Call";
+"Ok" = "Ok";
+
+
+//
+// CallView
+//
+
+/* A button's title to end the current Call */
+"End Call" = "End Call";
+/* Mute lable title's to mute the call */
+"mute" = "mute";
+/* Speaker lable title's to make the current call on the speaker mode */
+"speaker" = "speaker";
+/* Hold lable title's to hold the current call */
+"hold" = "hold";
+
+
+//
+// History View
+//
+
+/**/
+"Clear" = "Clear";
+"Cancel" = "Cancel";
+"Clear All History" = "Clear All History";
+/**/
+"Missed Call" = "Missed Call";
+"Cancelled Call" = "Cancelled Call";
+"Incoming Call" = "Incoming Call";
+"Outgoing Call" = "Outgoing Call";
+
+"Unknown Name" = "Unknown Name";
+"missed" = "missed";
+"cancelled" = "cancelled";
+
+"min" = "Min";
+"sec" = "Sec";
+
+
+//
+// Info Detail View
+//
+/**/
+"mobile" = "mobil";
+
+
+//
+// Keypad View
+//
+
+/* A button's title for calling */
+"Call" = "Call";
+
+/*Add contact*/
+//"Cancel" = "";
+"Create New Contact" = "Create New Contact";
+"Add to Existing Contact" = "Add to Existing Contact";
+
+"Dismiss" = "Dismiss";
+
+//
+// Incoming Call View
+//
+/* */
+"Answer" = "Answer";
+"Decline" = "Decline";
+
+//
+// More View Controller
+//
+/**/
+"Visit uniCall" = "Visit uniCall";
+"Share on Facebook" = "Share on Facebook";
+"Contact Developers" = "Contact Developers";
+"About" = "About";
+
+
+//
+// Preferences View Controller
+//
+/**/
+"Setting" = "Setting";
+"Username" = "Username";
+"Password" = "Password";
+"Domain" = "Domain";
+"Login" = "Login";
+"CreateNewAccount" = "Create New Account";
+
+/**/
+"To Change the settings, go to: \n Settings -> uniCall" = "To Change the settings, go to: Settings -> uniCall";
+"All fields required" = "All fields required";
+
+//
+// Contact Developer View
+//
+
+/**/
+"Developers" = "Developers";
+"Compose SMS" = "Compose SMS";
+"Compose Email" = "Compose Email";
+
+"Husain M. Y. Naser\nIPhone Developer\nuniCall Team" = "Husain M. Y. Naser\nIPhone Developer\nuniCall Team";
+"Tareq Jarrah\nAndroid Developer\nuniCall Team" = "Tareq Jarrah\nAndroid Developer\nuniCall Team";
+
+/**/
+"Dear uniCall Developers,\n" = "Dear uniCall Developers,\n";
+"uniCall Application feedback" = "uniCall Application feedback";
+
+/**/
+"Result: Mail sending canceled" = "Result: Mail sending canceled";
+"Result: Mail saved" = "Result: Mail saved";
+"Result: Mail sent" = "Result: Mail sent";
+"Result: Mail sending failed" = "Result: Mail sending failed";
+"Result: Mail not sent" = "Result: Mail not sent";
+
+/**/
+"Result: SMS sending canceled" = "Result: SMS sending canceled";
+"Result: SMS sent" = "Result: SMS sent";
+"Result: SMS sending failed" = "Result: SMS sending failed";
+"Result: SMS not sent" = "Result: SMS not sent";
+
+/**/
+"Device not configured to send mail." = "Device not configured to send mail.";
+"Device not configured to send mail." = "Device not configured to send mail.";
+
+"Device not configured to send SMS." = "Device not configured to send SMS.";
+"Device not configured to send SMS." = "Device not configured to send SMS.";
