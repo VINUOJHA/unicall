@@ -1,0 +1,155 @@
+
+//
+//	TabBarView Controller - Main View
+//
+/* Tab bar item - History */
+"History" = "Anrufliste";
+
+/* Tab bar item - Contact */
+"Contacts" = "Kontakte";
+
+/* Tab bar item - Dial */
+"Keypad" = "Ziffernblock";
+
+/* More tab bar item title */
+"More" = "Mehr";
+
+//
+// call handler
+//
+/**/
+"Connecting" = "Anrufen";
+"Disconnected" = "Anruf beendet";
+"ERROR" = "FEHLER";
+
+"In order for this program to work correctly you must be connected to the internet. To call using phone network press call" = "uniCall kann nicht korrekt funktioniert, da keine Verbindung zum Internet besteht. So rufen Hilfe Telefonnetz, drücken Sie Anruf";
+"An error occurred while registering. Please, Go to setting page and verify the credential. To call using phone network press call" = "Fehler beim Registrieren. Bitte um Einstellung Seite und überprüfen Sie die Anmeldeinformationen. Auf Anruf über Festnetz, drücken Sie Anruf";
+
+"Call" = "Anruf";
+"Ok" = "OK";
+
+
+//
+// CallView
+//
+
+/* A button's title to end the current Call */
+"End Call" = "Beenden";
+/* Mute lable title's to mute the call */
+"mute" = "Stumm";
+/* Speaker lable title's to make the current call on the speaker mode */
+"speaker" = "Lautsprecher";
+/* Hold lable title's to hold the current call */
+"hold" = "Anruf halten";
+
+
+//
+// History View
+//
+
+/**/
+"Clear" = "Löschen";
+"Cancel" = "Abbrechen";
+"Clear All History" = "Alle löschen";
+/**/
+"Missed Call" = "Verpasst Anruf";
+"Cancelled Call" = "Abgebrochener Anruf";
+"Incoming Call" = "Eingehender Anruf";
+"Outgoing Call" = "Ausgehender Anruf";
+
+"Unknown Name" = "Unbekannt";
+"missed" = "Verpasst";
+"cancelled" = "Abgebrochen";
+
+"min" = "Minuten";
+"sec" = "Sekunden";
+
+
+//
+// Info Detail View
+//
+/**/
+"mobile" = "Mobil";
+
+
+//
+// Keypad View
+//
+
+/* A button's title for calling */
+"Call" = "Anruf";
+
+/*Add contact*/
+//"Cancel" = "";
+"Create New Contact" = "Neuen Kontakt erstellen";
+"Add to Existing Contact" = "Zu Kontakt hinzufügen";
+
+"Dismiss" = "Entlassen";
+
+//
+// Incoming Call View
+//
+/* */
+"Answer" = "Annehmen";
+"Decline" = "Abnehmen";
+
+//
+// More View Controller
+//
+/**/
+"Visit uniCall" = "uniCall besuchen";
+"Share on Facebook" = "Auf Facebook teilen";
+"Contact Developers" = "Den Entwickler kontaktieren";
+"About" = "Über";
+
+
+//
+// Preferences View Controller
+//
+/**/
+"Setting" = "Einstellungen";
+"Username" = "Benutzername";
+"Password" = "Kennwort";
+"Domain" = "Domain";
+"Login" = "Anmelden";
+"CreateNewAccount" = "Neues Konto erstellen";
+
+/**/
+"To Change the settings, go to: \n Settings -> uniCall" = "Zum Ändern der Einstellungen finden Sie unter:  Einstellungen -> uniCall";
+//Um die Einstellungen zu ändern, gehen Sie zu:
+"All fields required" = "Bitte, Alle Felder ausfüllen";
+//
+// Contact Developer View
+//
+
+/**/
+"Developers" = "Die Entwickler";
+"Compose SMS" = "SMS verfassen";
+"Compose Email" = "E-mail verfassen";
+
+"Husain M. Y. Naser\nIPhone Developer\nuniCall Team" = "Husain M. Yaqoob\nIPhone-Entwickler\nuniCall-Team";
+"Tareq Jarrah\nAndroid Developer\nuniCall Team" = "Tareq Al-Jarrah\nAndroid-Entwickler\nuniCall-Team";
+
+/**/
+"Dear uniCall Developers,\n" = "Liebe uniCall-Entwickler, \n";
+"uniCall Application feedback" = "Anwendung Rückmeldung";
+
+/**/
+"Result: Mail sending canceled" = "Ergebnis: Mail senden abgebrochen";
+"Result: Mail saved" = "Ergebnis: Mail gespeichert";
+"Result: Mail sent" = "Ergebnis: Mail gesendet";
+"Result: Mail sending failed" = "Ergebnis: Main senden gescheitert";
+"Result: Mail not sent" = "Ergebnis: Mail nicht gesendet";
+
+/**/
+"Result: SMS sending canceled" = "Ergebnis: SMS Senden abgebrochen";
+"Result: SMS sent" = "Ergebnis: SMS gesendet";
+"Result: SMS sending failed" = "Ergebnis: SMS-Versand fehlgeschlagen";
+"Result: SMS not sent" = "Ergebnis: SMS nicht gesendet";
+
+/**/
+"Device not configured to send mail." = "Device not so konfiguriert, dass E-Mail schicken.";
+"Device not configured to send mail." = "Device not so konfiguriert, dass E-Mail schicken.";
+
+"Device not configured to send SMS." = "Device nicht so konfiguriert, SMS zu senden.";
+"Device not configured to send SMS." = "Device nicht so konfiguriert, SMS zu senden.";
